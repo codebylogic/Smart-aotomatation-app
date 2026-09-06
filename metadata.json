@@ -1,0 +1,6 @@
+{
+  "name": "NexusFlow",
+  "description": "Dual-engine automation framework combining visual node workflows and JavaScript runtime for Android system control",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
